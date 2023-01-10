@@ -86,3 +86,7 @@ a:visited{
   color: #86898f;
   margin-bottom: 10px;
 }
+
+.table {
+  width: 100%;
+}
