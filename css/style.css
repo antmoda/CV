@@ -7,15 +7,26 @@ body {
   font-family: "Roboto",Sans-Serif;
   /*font: normal 16px "Roboto",Sans-Serif;*/
 }
-h2{
-  font-size: 20px;
+
+a {
+  color: black;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+a:active{
+  color: blue;
+}
+a:visited{
+  color: grey;
 }
 .avatar {
   width: 200px;
   border-radius: 28px;
   box-shadow: 4px 4px 14px rgba(0,0,0,025);
 }
-.info p{
+.info p {
   color: #86898f;
   margin: 0;
   font-style: italic;
