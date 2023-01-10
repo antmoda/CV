@@ -25,6 +25,10 @@ h2{
   /*letter-spacing: 15px;*/
   /*word-spacing: 42px;*/
 }
+.container {
+  max-width: 750px;
+  margin: auto;
+}
 .social {
-  background: red;
+  background: green;
 }
