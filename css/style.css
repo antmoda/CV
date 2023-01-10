@@ -131,3 +131,11 @@ a:visited{
   outline: none;
   font-family: inherit;
 }
+
+.row {
+  display: flex;
+  margin-bottom: 20px;
+}
+.row > .form-group {
+  width: 50%;
+}
