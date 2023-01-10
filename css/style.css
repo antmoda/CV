@@ -29,7 +29,7 @@ h2{
   max-width: 750px;
   margin: auto;
 }
-.social {
+/*.social {
   background: green;
   padding: 15px 20px 25px 30px;
   border: 5px solid red;
@@ -37,7 +37,8 @@ h2{
   border-top-width: 15px;
   
   margin: 5px;
-}
+}/*
+
 /*.box-model > div {
   float: left;
   background: #000;
