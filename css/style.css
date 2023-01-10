@@ -106,5 +106,6 @@ a:visited{
 }
 .link-list li {
   margin-bottom: 10px;
+  padding-bottom: 5px;
   border-bottom: 1px solid #ccc;
 }
