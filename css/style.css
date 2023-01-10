@@ -166,7 +166,9 @@ a:visited{
 }
 /*position*/
 .position {
-  
+  border: 4px solid black;
+  margin-top: 40px;
+  padding: 20px;
 }
 .box {
   width: 50px;
