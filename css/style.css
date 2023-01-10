@@ -27,7 +27,10 @@ a:visited{
   box-shadow: 4px 4px 14px rgba(0,0,0,025);
 }
 
-.info{ margin-bottom: 20px; }
+.info{ 
+  display: none;
+  margin-bottom: 20px; 
+}
 .info p {
   color: #86898f;
   margin: 0;
