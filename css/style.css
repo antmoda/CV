@@ -31,6 +31,14 @@ a:visited{
   display: flex;
   margin-bottom: 20px; 
 }
+
+@media (max-width:700px){
+  .info {
+    display: block;
+    text-align: center;
+  }
+}
+
 .info-text {
   margin-left: 40px;
 }
