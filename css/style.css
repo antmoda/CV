@@ -5,5 +5,8 @@ body {
   font-size: 16px;
   font-weight: normal;
   font-family: "Roboto",Sans-Serif;
-  
+  /*font: normal 16px "Roboto",Sans-Serif;*/
+}
+h2{
+  font-size: 20px;
 }
