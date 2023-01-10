@@ -15,3 +15,6 @@ h2{
   border-radius: 28px;
   box-shadow: 4px 4px 14px rgba(0,0,0,025);
 }
+.info p{
+  color: #86898f;
+}
