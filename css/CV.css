@@ -4,4 +4,8 @@ body {
 }
 img {
   float:left;
+  margin-right: 15px;
+}
+.contact {
+  margin-bottom: 50px;
 }
