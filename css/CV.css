@@ -1,6 +1,7 @@
-.head {
-  float: left;
-}
 body {
   background: hsl(55, 91.7%, 95.3%);
+  width: 100%;
+}
+img {
+  float:left;
 }
